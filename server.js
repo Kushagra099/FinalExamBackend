@@ -37,7 +37,6 @@ connection.once('open', () => {
 });
 
 
-const Routers = require("express").Router();
 httpStatus = require("http-status-codes");
 
 
